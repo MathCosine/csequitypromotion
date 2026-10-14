@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2400" width="1800" height="2400" role="img" aria-label="CS Equity AI poster: We teach students to build with AI, not just use it. Free.">
+<title>CS Equity AI poster: We teach students to build with AI, not just use it. Free.</title>
+<rect width="1800" height="2400" fill="#FFF8EE"/>
+<line x1="1300" y1="157" x2="1480" y2="145" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="157" x2="1480" y2="215" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="157" x2="1480" y2="285" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="157" x2="1480" y2="355" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="250" x2="1480" y2="145" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="250" x2="1480" y2="215" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="250" x2="1480" y2="285" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="250" x2="1480" y2="355" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="343" x2="1480" y2="145" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="343" x2="1480" y2="215" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="343" x2="1480" y2="285" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1300" y1="343" x2="1480" y2="355" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="145" x2="1660" y2="180" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="145" x2="1660" y2="320" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="215" x2="1660" y2="180" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="215" x2="1660" y2="320" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="285" x2="1660" y2="180" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="285" x2="1660" y2="320" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="355" x2="1660" y2="180" stroke="#1E1B4B22" stroke-width="3"/>
+<line x1="1480" y1="355" x2="1660" y2="320" stroke="#1E1B4B22" stroke-width="3"/>
+<circle cx="1300" cy="157" r="16" fill="#FF6B5B"/>
+<circle cx="1300" cy="250" r="16" fill="#FF6B5B"/>
+<circle cx="1300" cy="343" r="16" fill="#FF6B5B"/>
+<circle cx="1480" cy="145" r="16" fill="#FBBF24"/>
+<circle cx="1480" cy="215" r="16" fill="#FBBF24"/>
+<circle cx="1480" cy="285" r="16" fill="#FBBF24"/>
+<circle cx="1480" cy="355" r="16" fill="#FBBF24"/>
+<circle cx="1660" cy="180" r="16" fill="#14B8A6"/>
+<circle cx="1660" cy="320" r="16" fill="#14B8A6"/>
+<g transform="translate(120 100) scale(0.9166666666666666)">
+  <rect width="120" height="120" rx="28" fill="#1E1B4B"/>
+  <path d="M38 36 L20 60 L38 84" fill="none" stroke="#FF6B5B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 36 L100 60 L82 84" fill="none" stroke="#14B8A6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="44" y1="50" x2="76" y2="50" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <line x1="44" y1="70" x2="76" y2="70" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="60" cy="30" r="7" fill="#FBBF24"/><circle cx="60" cy="90" r="7" fill="#FBBF24"/>
+</g>
+<text x="255" y="160" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >CS Equity AI</text>
+<text x="257" y="200" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >501(c)(3) public charity · since 2021</text>
+<text x="120" y="560" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="128" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-3" >We teach students</text>
+<text x="120" y="700" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="128" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-3" >to build with AI,</text>
+<text x="120" y="840" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="128" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="-3" >not just use it.</text>
+<text x="120" y="1090" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="#14B8A6" text-anchor="start" letter-spacing="-6" >Free.</text>
+<text x="124" y="1200" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Live online courses taught by engineers from Google and</text>
+<text x="124" y="1260" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >academia, for students in the US, Taiwan and Hong Kong.</text>
+<text x="124" y="1320" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >No tuition. You need a browser and some curiosity.</text>
+<rect y="1420" width="1800" height="600" fill="#1E1B4B"/>
+<text x="120" y="1515" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-1" >How it works</text>
+<text x="470" y="1515" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >Each level ends with something real.</text>
+<text x="120" y="1650" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="0" >i.</text>
+<text x="120" y="1712" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="3" >LEVEL 1 · CAPABILITY</text>
+<text x="120" y="1770" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-1" >Foundation course</text>
+<text x="120" y="1822" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >Self-paced, in the browser</text>
+<text x="120" y="1905" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#FBBF24" text-anchor="start" letter-spacing="0" >→ Foundation Certificate</text>
+<text x="660" y="1650" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="0" >ii.</text>
+<text x="660" y="1712" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="3" >LEVEL 2 · CREATION</text>
+<text x="660" y="1770" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-1" >Bootcamp</text>
+<text x="660" y="1822" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >Weekly live sessions,</text>
+<text x="660" y="1862" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >small teams</text>
+<text x="660" y="1905" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#FBBF24" text-anchor="start" letter-spacing="0" >→ A working AI system</text>
+<text x="1200" y="1650" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="0" >iii.</text>
+<text x="1200" y="1712" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="3" >LEVEL 3 · CAPITAL</text>
+<text x="1200" y="1770" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-1" >Startup</text>
+<text x="1200" y="1822" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >Founding team of</text>
+<text x="1200" y="1862" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >three to five</text>
+<text x="1200" y="1905" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#FBBF24" text-anchor="start" letter-spacing="0" >→ Pitch to angel investors</text>
+<text x="120" y="1990" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#A5B4FC" text-anchor="start" letter-spacing="0" font-style="italic">Finishing one level is how you get into the next.</text>
+<text x="120" y="2150" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Start with the free Foundation course.</text>
+<text x="122" y="2210" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >It’s open now, and it’s how students get onto the</text>
+<text x="122" y="2254" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >roster for the Fall 2026 course.</text>
+<text x="120" y="2340" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="-1" >csequityai.org</text>
+<rect x="1430" y="2080" width="250" height="250" rx="20" fill="#FFFFFF"/><path transform="translate(1452 2102) scale(8.24)" stroke="#1E1B4B" fill="none" d="M0 0.5h7m1 0h5m1 0h1m3 0h7m-25 1h1m5 0h1m1 0h4m1 0h2m1 0h1m1 0h1m5 0h1m-25 1h1m1 0h3m1 0h1m1 0h2m3 0h4m1 0h1m1 0h3m1 0h1m-25 1h1m1 0h3m1 0h1m6 0h2m1 0h1m1 0h1m1 0h3m1 0h1m-25 1h1m1 0h3m1 0h1m1 0h2m2 0h3m1 0h1m1 0h1m1 0h3m1 0h1m-25 1h1m5 0h1m2 0h1m2 0h3m3 0h1m5 0h1m-25 1h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7m-16 1h1m3 0h2m-15 1h1m2 0h8m1 0h1m1 0h1m2 0h1m2 0h1m1 0h3m-23 1h3m2 0h2m4 0h3m1 0h1m1 0h5m-23 1h1m2 0h3m4 0h1m1 0h1m1 0h1m1 0h3m1 0h1m2 0h1m-25 1h2m6 0h1m2 0h2m1 0h1m6 0h4m-19 1h2m1 0h1m1 0h2m2 0h1m2 0h2m4 0h1m-25 1h2m5 0h1m2 0h1m2 0h1m1 0h2m3 0h1m2 0h1m-24 1h3m1 0h5m2 0h2m2 0h1m1 0h2m1 0h5m-25 1h1m1 0h1m1 0h2m1 0h1m1 0h3m2 0h1m1 0h4m1 0h2m1 0h1m-25 1h1m3 0h3m3 0h1m2 0h1m2 0h5m1 0h2m-16 1h2m1 0h2m3 0h1m3 0h1m1 0h2m-24 1h7m1 0h1m1 0h2m4 0h1m1 0h1m1 0h1m3 0h1m-25 1h1m5 0h1m1 0h1m1 0h1m1 0h2m1 0h2m3 0h1m-21 1h1m1 0h3m1 0h1m1 0h3m1 0h2m1 0h6m2 0h2m-25 1h1m1 0h3m1 0h1m1 0h2m4 0h5m4 0h2m-25 1h1m1 0h3m1 0h1m3 0h1m1 0h1m1 0h1m5 0h5m-25 1h1m5 0h1m2 0h1m5 0h1m1 0h4m1 0h3m-25 1h7m1 0h1m1 0h1m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1"/>
+<text x="1555" y="2368" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#3B3870" text-anchor="middle" letter-spacing="2" >scan to start</text>
+</svg>

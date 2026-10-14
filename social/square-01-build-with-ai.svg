@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="We teach students to build with AI, not just use it. Free.">
+<title>We teach students to build with AI, not just use it. Free.</title>
+<rect width="1080" height="1080" fill="#1E1B4B"/>
+<line x1="720" y1="123" x2="850" y2="115" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="123" x2="850" y2="165" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="123" x2="850" y2="215" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="123" x2="850" y2="265" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="190" x2="850" y2="115" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="190" x2="850" y2="165" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="190" x2="850" y2="215" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="190" x2="850" y2="265" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="257" x2="850" y2="115" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="257" x2="850" y2="165" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="257" x2="850" y2="215" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="720" y1="257" x2="850" y2="265" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="115" x2="980" y2="140" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="115" x2="980" y2="240" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="165" x2="980" y2="140" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="165" x2="980" y2="240" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="215" x2="980" y2="140" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="215" x2="980" y2="240" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="265" x2="980" y2="140" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="850" y1="265" x2="980" y2="240" stroke="#FFFFFF22" stroke-width="3"/>
+<circle cx="720" cy="123" r="12" fill="#FF6B5B"/>
+<circle cx="720" cy="190" r="12" fill="#FF6B5B"/>
+<circle cx="720" cy="257" r="12" fill="#FF6B5B"/>
+<circle cx="850" cy="115" r="12" fill="#FBBF24"/>
+<circle cx="850" cy="165" r="12" fill="#FBBF24"/>
+<circle cx="850" cy="215" r="12" fill="#FBBF24"/>
+<circle cx="850" cy="265" r="12" fill="#FBBF24"/>
+<circle cx="980" cy="140" r="12" fill="#14B8A6"/>
+<circle cx="980" cy="240" r="12" fill="#14B8A6"/>
+<text x="80" y="430" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-2" >We teach students</text>
+<text x="80" y="534" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-2" >to build with AI,</text>
+<text x="80" y="638" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="-2" >not just use it.</text>
+<text x="80" y="840" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="170" font-weight="800" fill="#14B8A6" text-anchor="start" letter-spacing="-4" >Free.</text>
+<g transform="translate(80 930) scale(0.5833333333333334)">
+  <rect width="120" height="120" rx="28" fill="#1E1B4B"/>
+  <path d="M38 36 L20 60 L38 84" fill="none" stroke="#FF6B5B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 36 L100 60 L82 84" fill="none" stroke="#14B8A6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="44" y1="50" x2="76" y2="50" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <line x1="44" y1="70" x2="76" y2="70" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="60" cy="30" r="7" fill="#FBBF24"/><circle cx="60" cy="90" r="7" fill="#FBBF24"/>
+</g>
+<text x="170" y="978" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#FFF8EE" text-anchor="start" letter-spacing="0" >csequityai.org</text>
+</svg>

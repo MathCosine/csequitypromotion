@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 624" width="1640" height="624" role="img" aria-label="CS Equity AI: build with AI, not just use it">
+<title>CS Equity AI: build with AI, not just use it</title>
+<rect width="1640" height="624" fill="#1E1B4B"/>
+<line x1="1250" y1="203" x2="1380" y2="190" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="203" x2="1380" y2="270" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="203" x2="1380" y2="350" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="203" x2="1380" y2="430" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="310" x2="1380" y2="190" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="310" x2="1380" y2="270" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="310" x2="1380" y2="350" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="310" x2="1380" y2="430" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="417" x2="1380" y2="190" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="417" x2="1380" y2="270" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="417" x2="1380" y2="350" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1250" y1="417" x2="1380" y2="430" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="190" x2="1510" y2="230" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="190" x2="1510" y2="390" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="270" x2="1510" y2="230" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="270" x2="1510" y2="390" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="350" x2="1510" y2="230" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="350" x2="1510" y2="390" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="430" x2="1510" y2="230" stroke="#FFFFFF22" stroke-width="3"/>
+<line x1="1380" y1="430" x2="1510" y2="390" stroke="#FFFFFF22" stroke-width="3"/>
+<circle cx="1250" cy="203" r="16" fill="#FF6B5B"/>
+<circle cx="1250" cy="310" r="16" fill="#FF6B5B"/>
+<circle cx="1250" cy="417" r="16" fill="#FF6B5B"/>
+<circle cx="1380" cy="190" r="16" fill="#FBBF24"/>
+<circle cx="1380" cy="270" r="16" fill="#FBBF24"/>
+<circle cx="1380" cy="350" r="16" fill="#FBBF24"/>
+<circle cx="1380" cy="430" r="16" fill="#FBBF24"/>
+<circle cx="1510" cy="230" r="16" fill="#14B8A6"/>
+<circle cx="1510" cy="390" r="16" fill="#14B8A6"/>
+<text x="300" y="250" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-3" >Build with AI,</text>
+<text x="300" y="360" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="-3" >not just use it.</text>
+<text x="304" y="440" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >Free CS &amp; AI courses taught by working engineers.</text>
+<text x="304" y="490" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="0" >Since 2021 · US · Taiwan · Hong Kong · csequityai.org</text>
+</svg>

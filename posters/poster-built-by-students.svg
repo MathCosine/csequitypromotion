@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2400" width="1800" height="2400" role="img" aria-label="CS Equity AI poster: six AI systems built by students">
+<title>CS Equity AI poster: six AI systems built by students</title>
+<rect width="1800" height="2400" fill="#FFF8EE"/>
+<g transform="translate(120 100) scale(0.75)">
+  <rect width="120" height="120" rx="28" fill="#1E1B4B"/>
+  <path d="M38 36 L20 60 L38 84" fill="none" stroke="#FF6B5B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 36 L100 60 L82 84" fill="none" stroke="#14B8A6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="44" y1="50" x2="76" y2="50" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <line x1="44" y1="70" x2="76" y2="70" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="60" cy="30" r="7" fill="#FBBF24"/><circle cx="60" cy="90" r="7" fill="#FBBF24"/>
+</g>
+<text x="230" y="162" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >CS Equity AI</text>
+<text x="120" y="400" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="140" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-4" >Built by students.</text>
+<text x="124" y="500" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Six of the AI systems shipped by teams in our last course,</text>
+<text x="124" y="554" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >“The Course of Making AI Tutor for [X].” Real repos, real demos.</text>
+<rect x="120" y="640" width="750" height="380" rx="28" fill="#FFFFFF" stroke="#E9E3F7" stroke-width="3"/>
+<rect x="120" y="680" width="10" height="300" rx="5" fill="#FF6B5B"/>
+<text x="170" y="720" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="2" >01</text>
+<text x="170" y="785" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="54" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >AI 菜單推薦系統</text>
+<text x="170" y="840" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Upload a photo of a menu, get</text>
+<text x="170" y="882" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >waiter-style suggestions.</text>
+<rect x="170" y="940" width="81" height="44" rx="22" fill="#F1EDFB"/>
+<text x="210.5" y="970" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >RAG</text>
+<rect x="263" y="940" width="81" height="44" rx="22" fill="#F1EDFB"/>
+<text x="303.5" y="970" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >OCR</text>
+<rect x="356" y="940" width="156" height="44" rx="22" fill="#F1EDFB"/>
+<text x="434.0" y="970" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >ChromaDB</text>
+<rect x="930" y="640" width="750" height="380" rx="28" fill="#FFFFFF" stroke="#E9E3F7" stroke-width="3"/>
+<rect x="930" y="680" width="10" height="300" rx="5" fill="#14B8A6"/>
+<text x="980" y="720" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#14B8A6" text-anchor="start" letter-spacing="2" >02</text>
+<text x="980" y="785" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="54" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Travel AI</text>
+<text x="980" y="840" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Travel recommendations from a RAG</text>
+<text x="980" y="882" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >pipeline plus the Gemini API.</text>
+<rect x="980" y="940" width="81" height="44" rx="22" fill="#F1EDFB"/>
+<text x="1020.5" y="970" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >RAG</text>
+<rect x="1073" y="940" width="186" height="44" rx="22" fill="#F1EDFB"/>
+<text x="1166.0" y="970" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >Gemini API</text>
+<rect x="120" y="1060" width="750" height="380" rx="28" fill="#FFFFFF" stroke="#E9E3F7" stroke-width="3"/>
+<rect x="120" y="1100" width="10" height="300" rx="5" fill="#FBBF24"/>
+<text x="170" y="1140" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#D69E0B" text-anchor="start" letter-spacing="2" >03</text>
+<text x="170" y="1205" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="48" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Cooking Assistant Agent</text>
+<text x="170" y="1260" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Walks you through any recipe step by</text>
+<text x="170" y="1302" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >step, with help when you’re stuck.</text>
+<rect x="170" y="1360" width="111" height="44" rx="22" fill="#F1EDFB"/>
+<text x="225.5" y="1390" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >Agent</text>
+<rect x="930" y="1060" width="750" height="380" rx="28" fill="#FFFFFF" stroke="#E9E3F7" stroke-width="3"/>
+<rect x="930" y="1100" width="10" height="300" rx="5" fill="#FF6B5B"/>
+<text x="980" y="1140" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="2" >04</text>
+<text x="980" y="1205" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="54" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Compai</text>
+<text x="980" y="1260" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >A companion chatbot on Telegram.</text>
+<rect x="980" y="1360" width="81" height="44" rx="22" fill="#F1EDFB"/>
+<text x="1020.5" y="1390" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >RAG</text>
+<rect x="1073" y="1360" width="126" height="44" rx="22" fill="#F1EDFB"/>
+<text x="1136.0" y="1390" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >Gemini</text>
+<rect x="1211" y="1360" width="156" height="44" rx="22" fill="#F1EDFB"/>
+<text x="1289.0" y="1390" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >ChromaDB</text>
+<rect x="1379" y="1360" width="186" height="44" rx="22" fill="#F1EDFB"/>
+<text x="1472.0" y="1390" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >Embeddings</text>
+<rect x="120" y="1480" width="750" height="380" rx="28" fill="#FFFFFF" stroke="#E9E3F7" stroke-width="3"/>
+<rect x="120" y="1520" width="10" height="300" rx="5" fill="#14B8A6"/>
+<text x="170" y="1560" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#14B8A6" text-anchor="start" letter-spacing="2" >05</text>
+<text x="170" y="1625" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="54" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Smart Travel Agent</text>
+<text x="170" y="1680" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Collects preferences, curates attractions</text>
+<text x="170" y="1722" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >with live data, writes the itinerary.</text>
+<rect x="170" y="1780" width="171" height="44" rx="22" fill="#F1EDFB"/>
+<text x="255.5" y="1810" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B3870" text-anchor="middle" letter-spacing="0" >Live demo</text>
+<rect x="930" y="1480" width="750" height="380" rx="28" fill="#FFFFFF" stroke="#E9E3F7" stroke-width="3"/>
+<rect x="930" y="1520" width="10" height="300" rx="5" fill="#FBBF24"/>
+<text x="980" y="1560" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#D69E0B" text-anchor="start" letter-spacing="2" >06</text>
+<text x="980" y="1625" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="48" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Gacha Game Pull Advisor</text>
+<text x="980" y="1680" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >What to pull, how to build your</text>
+<text x="980" y="1722" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >character. Confusion ends here.</text>
+<text x="120" y="2080" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >The next course starts Fall 2026.</text>
+<text x="122" y="2150" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Students who finish the free Foundation course</text>
+<text x="122" y="2198" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >are first in line for the roster.</text>
+<text x="120" y="2320" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#FF6B5B" text-anchor="start" letter-spacing="-1" >csequityai.org</text>
+<rect x="1430" y="2040" width="250" height="250" rx="20" fill="#FFFFFF"/><path transform="translate(1452 2062) scale(8.24)" stroke="#1E1B4B" fill="none" d="M0 0.5h7m1 0h5m1 0h1m3 0h7m-25 1h1m5 0h1m1 0h4m1 0h2m1 0h1m1 0h1m5 0h1m-25 1h1m1 0h3m1 0h1m1 0h2m3 0h4m1 0h1m1 0h3m1 0h1m-25 1h1m1 0h3m1 0h1m6 0h2m1 0h1m1 0h1m1 0h3m1 0h1m-25 1h1m1 0h3m1 0h1m1 0h2m2 0h3m1 0h1m1 0h1m1 0h3m1 0h1m-25 1h1m5 0h1m2 0h1m2 0h3m3 0h1m5 0h1m-25 1h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7m-16 1h1m3 0h2m-15 1h1m2 0h8m1 0h1m1 0h1m2 0h1m2 0h1m1 0h3m-23 1h3m2 0h2m4 0h3m1 0h1m1 0h5m-23 1h1m2 0h3m4 0h1m1 0h1m1 0h1m1 0h3m1 0h1m2 0h1m-25 1h2m6 0h1m2 0h2m1 0h1m6 0h4m-19 1h2m1 0h1m1 0h2m2 0h1m2 0h2m4 0h1m-25 1h2m5 0h1m2 0h1m2 0h1m1 0h2m3 0h1m2 0h1m-24 1h3m1 0h5m2 0h2m2 0h1m1 0h2m1 0h5m-25 1h1m1 0h1m1 0h2m1 0h1m1 0h3m2 0h1m1 0h4m1 0h2m1 0h1m-25 1h1m3 0h3m3 0h1m2 0h1m2 0h5m1 0h2m-16 1h2m1 0h2m3 0h1m3 0h1m1 0h2m-24 1h7m1 0h1m1 0h2m4 0h1m1 0h1m1 0h1m3 0h1m-25 1h1m5 0h1m1 0h1m1 0h1m1 0h2m1 0h2m3 0h1m-21 1h1m1 0h3m1 0h1m1 0h3m1 0h2m1 0h6m2 0h2m-25 1h1m1 0h3m1 0h1m1 0h2m4 0h5m4 0h2m-25 1h1m1 0h3m1 0h1m3 0h1m1 0h1m1 0h1m5 0h5m-25 1h1m5 0h1m2 0h1m5 0h1m1 0h4m1 0h3m-25 1h7m1 0h1m1 0h1m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1"/>
+<text x="1555" y="2330" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#3B3870" text-anchor="middle" letter-spacing="2" >scan to start</text>
+</svg>

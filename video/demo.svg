@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="CS Equity AI: 30-second demo of what we do">
+<title>CS Equity AI: 30-second demo of what we do</title>
+<style>
+@keyframes a1 {0.000% {fill:#FFFFFF33} 16.667% {fill:#FFFFFF33} 17.667% {fill:#FF6B5B} 35.667% {fill:#FF6B5B} 36.667% {fill:#FFFFFF33} 100.000% {fill:#FFFFFF33}}
+.a1 {animation: a1 30.0s linear infinite both;}
+@keyframes a2 {0.000% {fill:#FFFFFF33} 36.667% {fill:#FFFFFF33} 37.667% {fill:#FF6B5B} 59.000% {fill:#FF6B5B} 60.000% {fill:#FFFFFF33} 100.000% {fill:#FFFFFF33}}
+.a2 {animation: a2 30.0s linear infinite both;}
+@keyframes a3 {0.000% {fill:#FFFFFF33} 60.000% {fill:#FFFFFF33} 61.000% {fill:#FF6B5B} 75.667% {fill:#FF6B5B} 76.667% {fill:#FFFFFF33} 100.000% {fill:#FFFFFF33}}
+.a3 {animation: a3 30.0s linear infinite both;}
+@keyframes a4 {0.000% {opacity:0;transform:translateY(0px)} 16.667% {opacity:0;transform:translateY(0px)} 18.167% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a4 {animation: a4 30.0s linear infinite both;}
+@keyframes a5 {0.000% {opacity:0;transform:translateY(30px)} 0.667% {opacity:0;transform:translateY(30px)} 2.167% {opacity:1;transform:translateY(0)} 15.167% {opacity:1;transform:translateY(0)} 16.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a5 {animation: a5 30.0s linear infinite both;}
+@keyframes a6 {0.000% {opacity:0;transform:translateY(30px)} 5.333% {opacity:0;transform:translateY(30px)} 6.833% {opacity:1;transform:translateY(0)} 15.167% {opacity:1;transform:translateY(0)} 16.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a6 {animation: a6 30.0s linear infinite both;}
+@keyframes a7 {0.000% {opacity:0;transform:translateY(30px)} 8.667% {opacity:0;transform:translateY(30px)} 10.167% {opacity:1;transform:translateY(0)} 15.167% {opacity:1;transform:translateY(0)} 16.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a7 {animation: a7 30.0s linear infinite both;}
+@keyframes a8 {0.000% {opacity:0;transform:translateY(30px)} 17.000% {opacity:0;transform:translateY(30px)} 18.500% {opacity:1;transform:translateY(0)} 35.167% {opacity:1;transform:translateY(0)} 36.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a8 {animation: a8 30.0s linear infinite both;}
+@keyframes a9 {0.000% {opacity:0;transform:translateY(30px)} 17.667% {opacity:0;transform:translateY(30px)} 19.167% {opacity:1;transform:translateY(0)} 35.167% {opacity:1;transform:translateY(0)} 36.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a9 {animation: a9 30.0s linear infinite both;}
+@keyframes a10 {0.000% {opacity:0;transform:translateY(30px)} 18.667% {opacity:0;transform:translateY(30px)} 20.167% {opacity:1;transform:translateY(0)} 35.167% {opacity:1;transform:translateY(0)} 36.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a10 {animation: a10 30.0s linear infinite both;}
+@keyframes a11 {0.000% {transform:scale(0)} 21.333% {transform:scale(0)} 22.167% {transform:scale(1.15)} 22.667% {transform:scale(1)} 100.000% {transform:scale(1)}}
+.a11 {animation: a11 30.0s linear infinite both;transform-box:fill-box;transform-origin:center;}
+@keyframes a12 {0.000% {transform:scale(0)} 24.333% {transform:scale(0)} 25.167% {transform:scale(1.15)} 25.667% {transform:scale(1)} 100.000% {transform:scale(1)}}
+.a12 {animation: a12 30.0s linear infinite both;transform-box:fill-box;transform-origin:center;}
+@keyframes a13 {0.000% {transform:scale(0)} 27.333% {transform:scale(0)} 28.167% {transform:scale(1.15)} 28.667% {transform:scale(1)} 100.000% {transform:scale(1)}}
+.a13 {animation: a13 30.0s linear infinite both;transform-box:fill-box;transform-origin:center;}
+@keyframes a14 {0.000% {transform:scaleX(0)} 20.667% {transform:scaleX(0)} 30.667% {transform:scaleX(1)} 100.000% {transform:scaleX(1)}}
+.a14 {animation: a14 30.0s linear infinite both;transform-box:fill-box;transform-origin:left center;}
+@keyframes a15 {0.000% {transform:scale(0)} 31.333% {transform:scale(0)} 32.167% {transform:scale(1.15)} 32.667% {transform:scale(1)} 100.000% {transform:scale(1)}}
+.a15 {animation: a15 30.0s linear infinite both;transform-box:fill-box;transform-origin:center;}
+@keyframes a16 {0.000% {opacity:0;transform:translateY(30px)} 17.333% {opacity:0;transform:translateY(30px)} 18.833% {opacity:1;transform:translateY(0)} 35.167% {opacity:1;transform:translateY(0)} 36.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a16 {animation: a16 30.0s linear infinite both;}
+@keyframes a17 {0.000% {opacity:0;transform:translateY(30px)} 37.000% {opacity:0;transform:translateY(30px)} 38.500% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a17 {animation: a17 30.0s linear infinite both;}
+@keyframes a18 {0.000% {opacity:0;transform:translateY(30px)} 37.667% {opacity:0;transform:translateY(30px)} 39.167% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a18 {animation: a18 30.0s linear infinite both;}
+@keyframes a19 {0.000% {opacity:0;transform:translateY(30px)} 38.667% {opacity:0;transform:translateY(30px)} 40.167% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a19 {animation: a19 30.0s linear infinite both;}
+@keyframes a20 {0.000% {transform:scaleX(0)} 39.333% {transform:scaleX(0)} 41.333% {transform:scaleX(1)} 100.000% {transform:scaleX(1)}}
+.a20 {animation: a20 30.0s linear infinite both;transform-box:fill-box;transform-origin:left center;}
+@keyframes a21 {0.000% {transform:scaleX(0)} 41.667% {transform:scaleX(0)} 43.667% {transform:scaleX(1)} 100.000% {transform:scaleX(1)}}
+.a21 {animation: a21 30.0s linear infinite both;transform-box:fill-box;transform-origin:left center;}
+@keyframes a22 {0.000% {transform:scaleX(0)} 44.000% {transform:scaleX(0)} 46.000% {transform:scaleX(1)} 100.000% {transform:scaleX(1)}}
+.a22 {animation: a22 30.0s linear infinite both;transform-box:fill-box;transform-origin:left center;}
+@keyframes a23 {0.000% {transform:scaleX(0)} 46.333% {transform:scaleX(0)} 48.333% {transform:scaleX(1)} 100.000% {transform:scaleX(1)}}
+.a23 {animation: a23 30.0s linear infinite both;transform-box:fill-box;transform-origin:left center;}
+@keyframes a24 {0.000% {opacity:0;transform:translateY(10px)} 48.667% {opacity:0;transform:translateY(10px)} 50.167% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a24 {animation: a24 30.0s linear infinite both;}
+@keyframes a25 {0.000% {opacity:0;transform:translateY(30px)} 50.000% {opacity:0;transform:translateY(30px)} 51.500% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a25 {animation: a25 30.0s linear infinite both;}
+@keyframes a26 {0.000% {opacity:0;transform:translateY(30px)} 52.000% {opacity:0;transform:translateY(30px)} 53.500% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a26 {animation: a26 30.0s linear infinite both;}
+@keyframes a27 {0.000% {opacity:0;transform:translateY(30px)} 54.000% {opacity:0;transform:translateY(30px)} 55.500% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a27 {animation: a27 30.0s linear infinite both;}
+@keyframes a28 {0.000% {opacity:0;transform:translateY(30px)} 50.000% {opacity:0;transform:translateY(30px)} 51.500% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a28 {animation: a28 30.0s linear infinite both;}
+@keyframes a29 {0.000% {opacity:0;transform:translateY(30px)} 37.333% {opacity:0;transform:translateY(30px)} 38.833% {opacity:1;transform:translateY(0)} 58.500% {opacity:1;transform:translateY(0)} 60.000% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a29 {animation: a29 30.0s linear infinite both;}
+@keyframes a30 {0.000% {opacity:0;transform:translateY(30px)} 60.333% {opacity:0;transform:translateY(30px)} 61.833% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a30 {animation: a30 30.0s linear infinite both;}
+@keyframes a31 {0.000% {opacity:0;transform:translateY(30px)} 61.000% {opacity:0;transform:translateY(30px)} 62.500% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a31 {animation: a31 30.0s linear infinite both;}
+@keyframes a32 {0.000% {opacity:0;transform:translateY(30px)} 62.000% {opacity:0;transform:translateY(30px)} 63.500% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a32 {animation: a32 30.0s linear infinite both;}
+@keyframes a33 {0.000% {transform:scaleX(0)} 63.333% {transform:scaleX(0)} 68.667% {transform:scaleX(1)} 100.000% {transform:scaleX(1)}}
+.a33 {animation: a33 30.0s linear infinite both;transform-box:fill-box;transform-origin:left center;}
+@keyframes a34 {0.000% {opacity:0;transform:translateY(20px)} 64.667% {opacity:0;transform:translateY(20px)} 66.167% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a34 {animation: a34 30.0s linear infinite both;}
+@keyframes a35 {0.000% {opacity:0;transform:translateY(20px)} 65.333% {opacity:0;transform:translateY(20px)} 66.833% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a35 {animation: a35 30.0s linear infinite both;}
+@keyframes a36 {0.000% {opacity:0;transform:translateY(20px)} 66.000% {opacity:0;transform:translateY(20px)} 67.500% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a36 {animation: a36 30.0s linear infinite both;}
+@keyframes a37 {0.000% {opacity:0;transform:translateY(20px)} 66.667% {opacity:0;transform:translateY(20px)} 68.167% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a37 {animation: a37 30.0s linear infinite both;}
+@keyframes a38 {0.000% {opacity:0;transform:translateY(30px)} 60.667% {opacity:0;transform:translateY(30px)} 62.167% {opacity:1;transform:translateY(0)} 75.167% {opacity:1;transform:translateY(0)} 76.667% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a38 {animation: a38 30.0s linear infinite both;}
+@keyframes a39 {0.000% {opacity:0;transform:translateY(30px)} 77.000% {opacity:0;transform:translateY(30px)} 78.500% {opacity:1;transform:translateY(0)} 86.833% {opacity:1;transform:translateY(0)} 88.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a39 {animation: a39 30.0s linear infinite both;}
+@keyframes a40 {0.000% {opacity:0;transform:translateY(30px)} 78.333% {opacity:0;transform:translateY(30px)} 79.833% {opacity:1;transform:translateY(0)} 86.833% {opacity:1;transform:translateY(0)} 88.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a40 {animation: a40 30.0s linear infinite both;}
+@keyframes a41 {0.000% {opacity:0;transform:translateY(30px)} 80.667% {opacity:0;transform:translateY(30px)} 82.167% {opacity:1;transform:translateY(0)} 86.833% {opacity:1;transform:translateY(0)} 88.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a41 {animation: a41 30.0s linear infinite both;}
+@keyframes a42 {0.000% {opacity:0;transform:translateY(30px)} 88.667% {opacity:0;transform:translateY(30px)} 90.167% {opacity:1;transform:translateY(0)} 97.833% {opacity:1;transform:translateY(0)} 99.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a42 {animation: a42 30.0s linear infinite both;}
+@keyframes a43 {0.000% {opacity:0;transform:translateY(30px)} 89.667% {opacity:0;transform:translateY(30px)} 91.167% {opacity:1;transform:translateY(0)} 97.833% {opacity:1;transform:translateY(0)} 99.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a43 {animation: a43 30.0s linear infinite both;}
+@keyframes a44 {0.000% {opacity:0;transform:translateY(30px)} 91.000% {opacity:0;transform:translateY(30px)} 92.500% {opacity:1;transform:translateY(0)} 97.833% {opacity:1;transform:translateY(0)} 99.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a44 {animation: a44 30.0s linear infinite both;}
+@keyframes a45 {0.000% {opacity:0;transform:translateY(30px)} 92.333% {opacity:0;transform:translateY(30px)} 93.833% {opacity:1;transform:translateY(0)} 97.833% {opacity:1;transform:translateY(0)} 99.333% {opacity:0;transform:translateY(0)} 100.000% {opacity:0;transform:translateY(0)}}
+.a45 {animation: a45 30.0s linear infinite both;}
+</style>
+<rect width="1920" height="1080" fill="#1E1B4B"/>
+<g transform="translate(80 960) scale(0.5333333333333333)">
+  <rect width="120" height="120" rx="28" fill="#1E1B4B"/>
+  <path d="M38 36 L20 60 L38 84" fill="none" stroke="#FF6B5B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 36 L100 60 L82 84" fill="none" stroke="#14B8A6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="44" y1="50" x2="76" y2="50" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <line x1="44" y1="70" x2="76" y2="70" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="60" cy="30" r="7" fill="#FBBF24"/><circle cx="60" cy="90" r="7" fill="#FBBF24"/>
+</g><text x="160" y="1003" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFF8EE" text-anchor="start" letter-spacing="0" >CS Equity AI</text>
+<g class="a4"><circle class="a1" cx="160" cy="120" r="12"/>
+<text x="186" y="130" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >i. Capability</text>
+<line x1="370" y1="120" x2="430" y2="120" stroke="#FFFFFF33" stroke-width="3"/>
+<circle class="a2" cx="460" cy="120" r="12"/>
+<text x="486" y="130" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >ii. Creation</text>
+<line x1="670" y1="120" x2="730" y2="120" stroke="#FFFFFF33" stroke-width="3"/>
+<circle class="a3" cx="760" cy="120" r="12"/>
+<text x="786" y="130" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >iii. Capital</text></g>
+<g class="a5"><text x="960.0" y="470" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#FFF8EE" text-anchor="middle" letter-spacing="-2" >Plenty of students use AI.</text></g>
+<g class="a6"><text x="960.0" y="640" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="150" font-weight="800" fill="#FF6B5B" text-anchor="middle" letter-spacing="-4" >Ours build it.</text></g>
+<g class="a7"><text x="960.0" y="740" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="500" fill="#A5B4FC" text-anchor="middle" letter-spacing="0" >Free CS &amp; AI courses since 2021</text></g>
+<g class="a8"><text x="160" y="380" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="4" >LEVEL 1 · CAPABILITY</text></g>
+<g class="a9"><text x="156" y="480" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-3" >Learn the essentials</text></g>
+<g class="a10"><text x="160" y="570" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >The free Foundation course on the</text>
+<text x="160" y="624" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >OpenImpact Lab. Self-paced and it</text>
+<text x="160" y="678" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >runs in your browser. Nothing to install.</text></g>
+<g class="a16"><rect x="1080" y="250" width="680" height="520" rx="22" fill="#FFF8EE"/>
+<path d="M1080 272 a22 22 0 0 1 22 -22 h636 a22 22 0 0 1 22 22 v34 h-680 z" fill="#E9E3F7"/>
+<circle cx="1112" cy="278" r="8" fill="#FF6B5B"/>
+<circle cx="1138" cy="278" r="8" fill="#FBBF24"/>
+<circle cx="1164" cy="278" r="8" fill="#14B8A6"/>
+<text x="1420.0" y="286" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#3B3870" text-anchor="middle" letter-spacing="0" >OpenImpact Lab</text>
+<rect x="1120" y="360" width="600" height="68" rx="14" fill="#FFFFFF"/>
+<text x="1200" y="404" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#1E1B4B" text-anchor="start" letter-spacing="0" >CS fundamentals</text>
+<circle cx="1160" cy="394" r="18" fill="#E9E3F7"/>
+<g class="a11"><circle cx="1160" cy="394" r="18" fill="#14B8A6"/><path d="M1151 394 l6 7 l12 -14" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="1120" y="450" width="600" height="68" rx="14" fill="#FFFFFF"/>
+<text x="1200" y="494" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#1E1B4B" text-anchor="start" letter-spacing="0" >AI fundamentals</text>
+<circle cx="1160" cy="484" r="18" fill="#E9E3F7"/>
+<g class="a12"><circle cx="1160" cy="484" r="18" fill="#14B8A6"/><path d="M1151 484 l6 7 l12 -14" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="1120" y="540" width="600" height="68" rx="14" fill="#FFFFFF"/>
+<text x="1200" y="584" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#1E1B4B" text-anchor="start" letter-spacing="0" >Hands-on lab: modern AI tooling</text>
+<circle cx="1160" cy="574" r="18" fill="#E9E3F7"/>
+<g class="a13"><circle cx="1160" cy="574" r="18" fill="#14B8A6"/><path d="M1151 574 l6 7 l12 -14" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="1120" y="660" width="600" height="18" rx="9" fill="#E9E3F7"/>
+<rect class="a14" x="1120" y="660" width="600" height="18" rx="9" fill="#14B8A6"/>
+<text x="1120" y="720" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#3B3870" text-anchor="start" letter-spacing="0" >Foundation course</text>
+<g class="a15"><circle cx="1690" cy="720" r="92" fill="#FBBF24"/><circle cx="1690" cy="720" r="74" fill="none" stroke="#1E1B4B" stroke-width="3" stroke-dasharray="6 8"/><text x="1690" y="712" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#1E1B4B" text-anchor="middle" letter-spacing="2" >FOUNDATION</text><text x="1690" y="742" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#1E1B4B" text-anchor="middle" letter-spacing="2" >CERTIFICATE</text></g></g>
+<g class="a17"><text x="160" y="380" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="4" >LEVEL 2 · CREATION</text></g>
+<g class="a18"><text x="156" y="480" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-3" >Build a real AI system</text></g>
+<g class="a19"><text x="160" y="570" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >Weekly live sessions in small teams,</text>
+<text x="160" y="624" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >taught by engineers from Google</text>
+<text x="160" y="678" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >and academia.</text></g>
+<g class="a29"><rect x="1100" y="180" width="680" height="340" rx="22" fill="#FFF8EE"/>
+<path d="M1100 202 a22 22 0 0 1 22 -22 h636 a22 22 0 0 1 22 22 v34 h-680 z" fill="#E9E3F7"/>
+<circle cx="1132" cy="208" r="8" fill="#FF6B5B"/>
+<circle cx="1158" cy="208" r="8" fill="#FBBF24"/>
+<circle cx="1184" cy="208" r="8" fill="#14B8A6"/>
+<text x="1440.0" y="216" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#3B3870" text-anchor="middle" letter-spacing="0" >team-3 / app.py</text>
+<rect x="1100" y="236" width="680" height="284" fill="#2A2660"/>
+<path d="M1100 498 v0 a22 22 0 0 0 22 22 h636 a22 22 0 0 0 22 -22" fill="#2A2660"/>
+<g class="a20"><text x="1140" y="300" font-family="'DejaVu Sans Mono', ui-monospace, monospace" font-size="28" font-weight="500" fill="#FF6B5B" text-anchor="start" letter-spacing="0" xml:space="preserve">def recommend(menu_photo):</text></g>
+<g class="a21"><text x="1140" y="350" font-family="'DejaVu Sans Mono', ui-monospace, monospace" font-size="28" font-weight="500" fill="#FFF8EE" text-anchor="start" letter-spacing="0" xml:space="preserve">    text = ocr(menu_photo)</text></g>
+<g class="a22"><text x="1140" y="400" font-family="'DejaVu Sans Mono', ui-monospace, monospace" font-size="28" font-weight="500" fill="#FFF8EE" text-anchor="start" letter-spacing="0" xml:space="preserve">    dishes = retrieve(text, k=5)</text></g>
+<g class="a23"><text x="1140" y="450" font-family="'DejaVu Sans Mono', ui-monospace, monospace" font-size="28" font-weight="500" fill="#FFF8EE" text-anchor="start" letter-spacing="0" xml:space="preserve">    return llm.suggest(dishes)</text></g>
+<g class="a24"><text x="1140" y="500" font-family="'DejaVu Sans Mono', ui-monospace, monospace" font-size="26" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="0" >✓ tests passed</text></g>
+<g class="a25"><rect x="1100" y="550" width="680" height="96" rx="18" fill="#FFFFFF"/><rect x="1100" y="550" width="10" height="96" rx="5" fill="#FF6B5B"/><text x="1136" y="592" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="30" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="0" >AI 菜單推薦系統</text><text x="1136" y="628" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Menu photo in, waiter-style picks out</text></g>
+<g class="a26"><rect x="1100" y="662" width="680" height="96" rx="18" fill="#FFFFFF"/><rect x="1100" y="662" width="10" height="96" rx="5" fill="#14B8A6"/><text x="1136" y="704" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="30" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="0" >Smart Travel Agent</text><text x="1136" y="740" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Curates attractions, writes the itinerary</text></g>
+<g class="a27"><rect x="1100" y="774" width="680" height="96" rx="18" fill="#FFFFFF"/><rect x="1100" y="774" width="10" height="96" rx="5" fill="#FBBF24"/><text x="1136" y="816" font-family="Inter, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', 'WenQuanYi Zen Hei', sans-serif" font-size="30" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="0" >Cooking Assistant Agent</text><text x="1136" y="852" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#3B3870" text-anchor="start" letter-spacing="0" >Walks you through any recipe</text></g>
+<g class="a28"><text x="1780" y="532" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#A5B4FC" text-anchor="end" letter-spacing="2" >shipped by students</text></g></g>
+<g class="a30"><text x="160" y="380" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#14B8A6" text-anchor="start" letter-spacing="4" >LEVEL 3 · CAPITAL</text></g>
+<g class="a31"><text x="156" y="480" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#FFF8EE" text-anchor="start" letter-spacing="-3" >Pitch it</text></g>
+<g class="a32"><text x="160" y="570" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >A founding team of three to five</text>
+<text x="160" y="624" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >takes what they built in front</text>
+<text x="160" y="678" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="start" letter-spacing="0" >of angel investors.</text></g>
+<g class="a38"><rect x="1060" y="220" width="700" height="400" rx="20" fill="#FFF8EE"/>
+<text x="1110" y="310" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#1E1B4B" text-anchor="start" letter-spacing="-1" >Investor pitch</text>
+<text x="1110" y="356" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#3B3870" text-anchor="start" letter-spacing="0" >Team 2 · AI travel agent</text>
+<polyline class="a33" points="1120,560 1280,520 1420,470 1560,450 1700,390" fill="none" stroke="#FF6B5B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1400" y="620" width="20" height="90" fill="#FFFFFF33"/>
+<g class="a34"><circle cx="1240" cy="780" r="30" fill="#FF6B5B"/><path d="M1194 880 a46 50 0 0 1 92 0 z" fill="#FF6B5B"/></g>
+<g class="a35"><circle cx="1350" cy="780" r="30" fill="#14B8A6"/><path d="M1304 880 a46 50 0 0 1 92 0 z" fill="#14B8A6"/></g>
+<g class="a36"><circle cx="1460" cy="780" r="30" fill="#FBBF24"/><path d="M1414 880 a46 50 0 0 1 92 0 z" fill="#FBBF24"/></g>
+<g class="a37"><circle cx="1570" cy="780" r="30" fill="#A5B4FC"/><path d="M1524 880 a46 50 0 0 1 92 0 z" fill="#A5B4FC"/></g>
+<circle cx="1080" cy="960" r="26" fill="#FFFFFF22"/>
+<circle cx="1190" cy="960" r="26" fill="#FFFFFF22"/>
+<circle cx="1300" cy="960" r="26" fill="#FFFFFF22"/>
+<circle cx="1410" cy="960" r="26" fill="#FFFFFF22"/>
+<circle cx="1520" cy="960" r="26" fill="#FFFFFF22"/>
+<circle cx="1630" cy="960" r="26" fill="#FFFFFF22"/>
+<circle cx="1740" cy="960" r="26" fill="#FFFFFF22"/></g>
+<g class="a39"><text x="960.0" y="560" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="320" font-weight="800" fill="#FBBF24" text-anchor="middle" letter-spacing="-10" >$0</text></g>
+<g class="a40"><text x="960.0" y="680" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#FFF8EE" text-anchor="middle" letter-spacing="-2" >tuition. Ever.</text></g>
+<g class="a41"><text x="960.0" y="770" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#A5B4FC" text-anchor="middle" letter-spacing="0" >Students in the US, Taiwan and Hong Kong, since 2021.</text></g>
+<g class="a42"><g transform="translate(870.0 230) scale(1.5)">
+  <rect width="120" height="120" rx="28" fill="#1E1B4B"/>
+  <path d="M38 36 L20 60 L38 84" fill="none" stroke="#FF6B5B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 36 L100 60 L82 84" fill="none" stroke="#14B8A6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="44" y1="50" x2="76" y2="50" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <line x1="44" y1="70" x2="76" y2="70" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="60" cy="30" r="7" fill="#FBBF24"/><circle cx="60" cy="90" r="7" fill="#FBBF24"/>
+</g></g>
+<g class="a43"><text x="960.0" y="560" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#FFF8EE" text-anchor="middle" letter-spacing="-2" >Start with the free Foundation course.</text></g>
+<g class="a44"><text x="960.0" y="700" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="110" font-weight="800" fill="#FF6B5B" text-anchor="middle" letter-spacing="-3" >csequityai.org</text></g>
+<g class="a45"><text x="960.0" y="790" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="500" fill="#A5B4FC" text-anchor="middle" letter-spacing="0" >The Fall 2026 roster is drawn from students who finish it.</text></g>
+</svg>
