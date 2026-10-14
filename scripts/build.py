@@ -3,12 +3,13 @@
 
 All copy is taken from csequityai.org. Change it here, then:
 
-    pip install segno fonttools brotli
+    pip install segno numpy scipy
     python3 scripts/build.py
     node scripts/render.mjs      # PNG exports + video/demo.mp4
 
-Posters use the risograph toolkit (riso.py); social graphics and the video use the
-paper-theater toolkit (paper.py); the video's timeline is in video.py.
+Posters are in posters.py; social graphics and the video use the
+paper-theater toolkit (paper.py); the video's timeline is in video.py and its
+soundtrack is synthesised by music.py.
 """
 import sys
 
@@ -136,11 +137,15 @@ def brand():
 
 
 if __name__ == "__main__":
-    import riso
+    import posters
     import video as demo
     brand()
-    write("posters/poster-build-with-ai.svg", riso.poster_main())
-    write("posters/poster-vibe-coding-happy-hour.svg", riso.poster_vibe())
-    write("posters/poster-built-by-students.svg", riso.poster_students(PROJECTS))
+    write("posters/poster-build-with-ai.svg", posters.poster_main(LEVELS))
+    write("posters/poster-vibe-coding-happy-hour.svg", posters.poster_vibe())
+    write("posters/poster-built-by-students.svg", posters.poster_students(PROJECTS))
     social()
-    write("video/demo.svg", demo.video())
+    import music
+    svg, plan, total = demo.video()
+    write("video/demo.svg", svg)
+    music.render([start for start, *_ in plan], total, ROOT / "video" / "soundtrack.wav", ROOT / "video" / "soundtrack.m4a")
+    print("wrote video/soundtrack.m4a", f"({total:.1f}s)")

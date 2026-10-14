@@ -1,12 +1,11 @@
 # CS Equity AI — brand notes
 
-Two hand-made looks, both deliberately un-slick:
+Two looks:
 
-- **Posters: risograph gig posters.** Three spot inks (fluoro pink `#FF48B0`, blue `#0078BF`,
-  yellow `#FFE800`) that multiply where they overlap (blue + yellow = green, pink + yellow =
-  orange-red), halftone dots, each ink a few pixels off register, mottled ink texture on
-  off-white stock. Type is Anton set to fill the width, with Space Mono for details.
-  Toolkit: `scripts/riso.py`.
+- **Posters: clean event posters.** DM Sans throughout, flat colour (navy `#1C2B4A` text,
+  blue `#2457C5`, pink `#E5487F`, yellow `#FFCF3D`, soft tints of each), warm off-white
+  stock with a faint grain, and a clear reading order: headline, one-line pitch, the details,
+  then a blue call-to-action panel with a QR code. Code: `scripts/posters.py`.
 - **Video and social: cut-paper puppet theater.** Printed illustrations cut out of card
   stock, hung on strings inside a riveted brass frame with red curtains, on a kraft-paper wall.
   Toolkit: `scripts/paper.py`.
