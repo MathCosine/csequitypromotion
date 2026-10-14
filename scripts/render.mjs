@@ -44,6 +44,6 @@ for (let i = 0; i < FPS * SECONDS; i++) {
 await browser.close();
 const mp4 = path.join(root, 'video', 'demo.mp4');
 execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-framerate', String(FPS), '-i', path.join(frames, 'f%04d.png'),
-  '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-crf', '20', '-movflags', '+faststart', mp4]);
+  '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-preset', 'slow', '-crf', '24', '-movflags', '+faststart', mp4]);
 rmSync(frames, { recursive: true });
 console.log('mp4', path.relative(root, mp4));
