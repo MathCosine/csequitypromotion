@@ -1,13 +1,21 @@
-# CS Equity AI — brand notes (paper-theater style)
+# CS Equity AI — brand notes
 
-Everything is built to look like a hand-made paper theater: printed illustrations cut out
-of card stock, hung on puppet strings inside a riveted brass frame, on a kraft-paper wall.
+Two hand-made looks, both deliberately un-slick:
+
+- **Posters: risograph gig posters.** Three spot inks (fluoro pink `#FF48B0`, blue `#0078BF`,
+  yellow `#FFE800`) that multiply where they overlap (blue + yellow = green, pink + yellow =
+  orange-red), halftone dots, each ink a few pixels off register, mottled ink texture on
+  off-white stock. Type is Anton set to fill the width, with Space Mono for details.
+  Toolkit: `scripts/riso.py`.
+- **Video and social: cut-paper puppet theater.** Printed illustrations cut out of card
+  stock, hung on strings inside a riveted brass frame with red curtains, on a kraft-paper wall.
+  Toolkit: `scripts/paper.py`.
 
 ## Mark
 `logo-mark.svg`: code brackets `< >` (computer science) around an equals sign (equity),
 with two gold nodes. `logo-horizontal.svg` adds the wordmark.
 
-## Palette
+## Paper-theater palette
 
 | Token  | Hex       | Use                                     |
 |--------|-----------|-----------------------------------------|
@@ -21,7 +29,7 @@ with two gold nodes. `logo-horizontal.svg` adds the wordmark.
 | Ochre  | `#D8B25C` | Highlights; brass `#B48A3C` for frames  |
 | Navy   | `#2F3A56` | Logo tile, laptop screens               |
 
-## Type
+## Paper-theater type
 - **Fraunces** (900 for headlines, 700 for small accents): soft vintage serif.
 - **Special Elite**: typewriter face for labels and body copy.
 

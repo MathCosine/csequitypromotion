@@ -34,7 +34,7 @@ for (const dir of ['posters', 'social']) {
 }
 
 // Video: pause every CSS animation and scrub it frame by frame.
-const FPS = 30, SECONDS = 30;
+const FPS = 30, SECONDS = 36;
 const page = await pageFor(path.join(root, 'video', 'demo.svg'));
 const frames = mkdtempSync(path.join(tmpdir(), 'csequity-frames-'));
 for (let i = 0; i < FPS * SECONDS; i++) {
