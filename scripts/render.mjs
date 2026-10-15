@@ -47,6 +47,6 @@ const mp4 = path.join(root, 'video', 'demo.mp4');
 const audio = path.join(root, 'video', 'soundtrack.m4a');
 execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-framerate', String(FPS), '-i', path.join(frames, 'f%04d.png'),
   ...(existsSync(audio) ? ['-i', audio, '-c:a', 'copy', '-shortest'] : []),
-  '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-preset', 'slow', '-crf', '24', '-movflags', '+faststart', mp4]);
+  '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-preset', 'slow', '-crf', '27', '-movflags', '+faststart', mp4]);
 rmSync(frames, { recursive: true });
 console.log('mp4', path.relative(root, mp4));
